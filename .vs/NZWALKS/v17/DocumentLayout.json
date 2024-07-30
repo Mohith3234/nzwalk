@@ -1,0 +1,395 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\aspnetcore\\NZWALKS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|c:\\aspnetcore\\nzwalks\\nzwalks\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|solutionrelative:nzwalks\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|c:\\aspnetcore\\nzwalks\\nzwalks\\repository\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|solutionrelative:nzwalks\\repository\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|c:\\aspnetcore\\nzwalks\\nzwalks\\data\\dbcontextclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|solutionrelative:nzwalks\\data\\dbcontextclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|c:\\aspnetcore\\nzwalks\\nzwalks\\data\\dbcontextautoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|solutionrelative:nzwalks\\data\\dbcontextautoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|c:\\aspnetcore\\nzwalks\\nzwalks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|solutionrelative:nzwalks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|c:\\aspnetcore\\nzwalks\\nzwalks\\dto\\createwalkdtoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|solutionrelative:nzwalks\\dto\\createwalkdtoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|c:\\aspnetcore\\nzwalks\\nzwalks\\repository\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|solutionrelative:nzwalks\\repository\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|c:\\aspnetcore\\nzwalks\\nzwalks\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|solutionrelative:nzwalks\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|c:\\aspnetcore\\nzwalks\\nzwalks\\controllers\\walkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|solutionrelative:nzwalks\\controllers\\walkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|c:\\aspnetcore\\nzwalks\\nzwalks\\dto\\regiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|solutionrelative:nzwalks\\dto\\regiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|c:\\aspnetcore\\nzwalks\\nzwalks\\dto\\difficultydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|solutionrelative:nzwalks\\dto\\difficultydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|c:\\aspnetcore\\nzwalks\\nzwalks\\dto\\addwalkclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|solutionrelative:nzwalks\\dto\\addwalkclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|c:\\aspnetcore\\nzwalks\\nzwalks\\dto\\updateclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|solutionrelative:nzwalks\\dto\\updateclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|c:\\aspnetcore\\nzwalks\\nzwalks\\model\\domine\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|solutionrelative:nzwalks\\model\\domine\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|c:\\aspnetcore\\nzwalks\\nzwalks\\model\\domine\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|solutionrelative:nzwalks\\model\\domine\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|c:\\aspnetcore\\nzwalks\\nzwalks\\repository\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|solutionrelative:nzwalks\\repository\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|c:\\aspnetcore\\nzwalks\\nzwalks\\repository\\repositorypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|solutionrelative:nzwalks\\repository\\repositorypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|c:\\aspnetcore\\nzwalks\\nzwalks\\dto\\addregiondtoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|solutionrelative:nzwalks\\dto\\addregiondtoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|c:\\aspnetcore\\nzwalks\\nzwalks\\model\\domine\\deficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|solutionrelative:nzwalks\\model\\domine\\deficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|c:\\aspnetcore\\nzwalks\\nzwalks\\automapper\\automapperproficeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|solutionrelative:nzwalks\\automapper\\automapperproficeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|c:\\aspnetcore\\nzwalks\\nzwalks\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|solutionrelative:nzwalks\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|c:\\aspnetcore\\nzwalks\\nzwalks\\migrations\\20240622132000_itst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|solutionrelative:nzwalks\\migrations\\20240622132000_itst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|c:\\aspnetcore\\nzwalks\\nzwalks\\migrations\\dbcontextautoclassmigrations\\20240627053926_create auto database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC3FA8-C832-4D04-AC5B-351BA96D3FB1}|NZWALKS\\NZWALKS.csproj|solutionrelative:nzwalks\\migrations\\dbcontextautoclassmigrations\\20240627053926_create auto database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbContextAutoClass.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\Data\\DbContextAutoClass.cs",
+              "RelativeDocumentMoniker": "NZWALKS\\Data\\DbContextAutoClass.cs",
+              "ToolTip": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\Data\\DbContextAutoClass.cs",
+              "RelativeToolTip": "NZWALKS\\Data\\DbContextAutoClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T18:09:11.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IWalkREpository.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\Repository\\IWalkREpository.cs",
+              "RelativeDocumentMoniker": "NZWALKS\\Repository\\IWalkREpository.cs",
+              "ToolTip": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\Repository\\IWalkREpository.cs",
+              "RelativeToolTip": "NZWALKS\\Repository\\IWalkREpository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:43:52.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\Program.cs",
+              "RelativeDocumentMoniker": "NZWALKS\\Program.cs",
+              "ToolTip": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\Program.cs",
+              "RelativeToolTip": "NZWALKS\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:40:09.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateWalkDtoClass.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\DTO\\CreateWalkDtoClass.cs",
+              "RelativeDocumentMoniker": "NZWALKS\\DTO\\CreateWalkDtoClass.cs",
+              "ToolTip": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\DTO\\CreateWalkDtoClass.cs",
+              "RelativeToolTip": "NZWALKS\\DTO\\CreateWalkDtoClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T09:05:43.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\appsettings.json",
+              "RelativeDocumentMoniker": "NZWALKS\\appsettings.json",
+              "ToolTip": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\appsettings.json",
+              "RelativeToolTip": "NZWALKS\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T11:10:39.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLWalkRepository.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\Repository\\SQLWalkRepository.cs",
+              "RelativeDocumentMoniker": "NZWALKS\\Repository\\SQLWalkRepository.cs",
+              "ToolTip": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\Repository\\SQLWalkRepository.cs",
+              "RelativeToolTip": "NZWALKS\\Repository\\SQLWalkRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:45:56.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbcontextClass.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\Data\\DbcontextClass.cs",
+              "RelativeDocumentMoniker": "NZWALKS\\Data\\DbcontextClass.cs",
+              "ToolTip": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\Data\\DbcontextClass.cs",
+              "RelativeToolTip": "NZWALKS\\Data\\DbcontextClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:41:25.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240627053926_Create Auto Database.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\Migrations\\DbContextAutoClassMigrations\\20240627053926_Create Auto Database.cs",
+              "RelativeDocumentMoniker": "NZWALKS\\Migrations\\DbContextAutoClassMigrations\\20240627053926_Create Auto Database.cs",
+              "ToolTip": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\Migrations\\DbContextAutoClassMigrations\\20240627053926_Create Auto Database.cs",
+              "RelativeToolTip": "NZWALKS\\Migrations\\DbContextAutoClassMigrations\\20240627053926_Create Auto Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T05:39:26.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegionController.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\Controllers\\RegionController.cs",
+              "RelativeDocumentMoniker": "NZWALKS\\Controllers\\RegionController.cs",
+              "ToolTip": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\Controllers\\RegionController.cs",
+              "RelativeToolTip": "NZWALKS\\Controllers\\RegionController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:38:16.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WalkController.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\Controllers\\WalkController.cs",
+              "RelativeDocumentMoniker": "NZWALKS\\Controllers\\WalkController.cs",
+              "ToolTip": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\Controllers\\WalkController.cs",
+              "RelativeToolTip": "NZWALKS\\Controllers\\WalkController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAIwDsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:25:34.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegionDto.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\DTO\\RegionDto.cs",
+              "RelativeDocumentMoniker": "NZWALKS\\DTO\\RegionDto.cs",
+              "ToolTip": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\DTO\\RegionDto.cs",
+              "RelativeToolTip": "NZWALKS\\DTO\\RegionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T15:41:32.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DifficultyDto.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\DTO\\DifficultyDto.cs",
+              "RelativeDocumentMoniker": "NZWALKS\\DTO\\DifficultyDto.cs",
+              "ToolTip": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\DTO\\DifficultyDto.cs",
+              "RelativeToolTip": "NZWALKS\\DTO\\DifficultyDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:16:43.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddWalkClass.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\DTO\\AddWalkClass.cs",
+              "RelativeDocumentMoniker": "NZWALKS\\DTO\\AddWalkClass.cs",
+              "ToolTip": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\DTO\\AddWalkClass.cs",
+              "RelativeToolTip": "NZWALKS\\DTO\\AddWalkClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:26:42.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateClass.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\DTO\\UpdateClass.cs",
+              "RelativeDocumentMoniker": "NZWALKS\\DTO\\UpdateClass.cs",
+              "ToolTip": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\DTO\\UpdateClass.cs",
+              "RelativeToolTip": "NZWALKS\\DTO\\UpdateClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T17:22:47.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Region.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\Model\\Domine\\Region.cs",
+              "RelativeDocumentMoniker": "NZWALKS\\Model\\Domine\\Region.cs",
+              "ToolTip": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\Model\\Domine\\Region.cs",
+              "RelativeToolTip": "NZWALKS\\Model\\Domine\\Region.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:04:03.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Walk.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\Model\\Domine\\Walk.cs",
+              "RelativeDocumentMoniker": "NZWALKS\\Model\\Domine\\Walk.cs",
+              "ToolTip": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\Model\\Domine\\Walk.cs",
+              "RelativeToolTip": "NZWALKS\\Model\\Domine\\Walk.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:03:17.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RepositoryPattern.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\Repository\\RepositoryPattern.cs",
+              "RelativeDocumentMoniker": "NZWALKS\\Repository\\RepositoryPattern.cs",
+              "ToolTip": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\Repository\\RepositoryPattern.cs",
+              "RelativeToolTip": "NZWALKS\\Repository\\RepositoryPattern.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T11:35:03.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SqlRegionRepository.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\Repository\\SqlRegionRepository.cs",
+              "RelativeDocumentMoniker": "NZWALKS\\Repository\\SqlRegionRepository.cs",
+              "ToolTip": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\Repository\\SqlRegionRepository.cs",
+              "RelativeToolTip": "NZWALKS\\Repository\\SqlRegionRepository.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAA1wC8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T11:37:22.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddRegionDtoClass.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\DTO\\AddRegionDtoClass.cs",
+              "RelativeDocumentMoniker": "NZWALKS\\DTO\\AddRegionDtoClass.cs",
+              "ToolTip": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\DTO\\AddRegionDtoClass.cs",
+              "RelativeToolTip": "NZWALKS\\DTO\\AddRegionDtoClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T16:11:44.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Deficulty.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\Model\\Domine\\Deficulty.cs",
+              "RelativeDocumentMoniker": "NZWALKS\\Model\\Domine\\Deficulty.cs",
+              "ToolTip": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\Model\\Domine\\Deficulty.cs",
+              "RelativeToolTip": "NZWALKS\\Model\\Domine\\Deficulty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:03:47.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AutomapperProficeClass.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\Automapper\\AutomapperProficeClass.cs",
+              "RelativeDocumentMoniker": "NZWALKS\\Automapper\\AutomapperProficeClass.cs",
+              "ToolTip": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\Automapper\\AutomapperProficeClass.cs",
+              "RelativeToolTip": "NZWALKS\\Automapper\\AutomapperProficeClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:13:50.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NZWALKS\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NZWALKS\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:45:51.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240622132000_itst.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\Migrations\\20240622132000_itst.cs",
+              "RelativeDocumentMoniker": "NZWALKS\\Migrations\\20240622132000_itst.cs",
+              "ToolTip": "C:\\aspnetcore\\NZWALKS\\NZWALKS\\Migrations\\20240622132000_itst.cs",
+              "RelativeToolTip": "NZWALKS\\Migrations\\20240622132000_itst.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T13:20:01.084Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
